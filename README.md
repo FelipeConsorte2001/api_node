@@ -1,7 +1,7 @@
 # api_node
 
-<p>Apir feito com o Node.js conectada ao banco de dados mySql</p>
-##Tecnologias usadas
+<p>Api feito com o Node.js conectada ao banco de dados mySql, API executa as 4 requisições HTTPS read, creat, pudate e delete, simulando um cadastro de alunos na escola </p>
+## Tecnologias usadas
 <ul>
   <li>Node.js</li>
   <li>Dotenv V8.2.0</li>
